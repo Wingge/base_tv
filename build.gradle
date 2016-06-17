@@ -6,10 +6,11 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
-        version "${version_code}"
-        versionName "${version_name}"
-        minSdkVersion "${minSdkVersion}"
-        targetSdkVersion "${targetSdkVersion}"
+        version rootProject.ext.version_code
+        versionName rootProject.ext.version_name
+        minSdkVersion 17
+//        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
     }
     buildTypes {
         release {
