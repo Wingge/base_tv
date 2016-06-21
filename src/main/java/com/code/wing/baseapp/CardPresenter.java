@@ -12,7 +12,7 @@
  * the License.
  */
 
-package android.code.wing.baseapp;
+package com.code.wing.baseapp;
 
 import android.graphics.drawable.Drawable;
 import android.support.v17.leanback.widget.ImageCardView;

@@ -12,7 +12,7 @@
  * the License.
  */
 
-package android.code.wing.baseapp;
+package com.code.wing.baseapp;
 
 import android.app.Activity;
 import android.os.Bundle;

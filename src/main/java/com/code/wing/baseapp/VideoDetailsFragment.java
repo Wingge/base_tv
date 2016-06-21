@@ -12,7 +12,7 @@
  * the License.
  */
 
-package android.code.wing.baseapp;
+package com.code.wing.baseapp;
 
 import android.content.Intent;
 import android.graphics.drawable.Drawable;
